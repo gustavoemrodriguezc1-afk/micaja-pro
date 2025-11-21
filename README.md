@@ -1,15 +1,15 @@
 # MiCaja PRO — Sistema de Contabilidad Offline
 
-<img src="dashboard.png" alt="Dashboard principal" width="100%">
+<img src="Capturas/dashboard.png" alt="Dashboard principal" width="100%">
 
 Sistema contable 100 % offline · Python + Flask + SQLite  
 Ideal para comercios, pymes, ferreterías y uso personal.
 
 ### Capturas
 
-<img src="login.png" width="100%">
-<img src="categorias.png" width="100%">
-<img src="pdf.png" width="100%">
+<img src="Capturas/login.png" width="100%">
+<img src="Capturas/categorias.png" width="100%">
+<img src="Capturas/pdf.png" width="100%">
 
 ### Licencias (pago único)
 
